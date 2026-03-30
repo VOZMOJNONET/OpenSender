@@ -7,3 +7,4 @@ aiogram
 aiosmtplib
 python-dotenv
 pydantic[email]
+aiosqlite
